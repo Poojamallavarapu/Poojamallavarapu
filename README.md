@@ -186,11 +186,11 @@ Cryptography-based system for secure data encoding, decoding, and key management
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Poojamallavarapu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Poojamallavarapu&theme=tokyonight&hide_border=true" width="49%"/>
+<img src="https://github-readme-stats-git-masteranuraghazra.vercel.app/api?username=Poojamallavarapu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%"/>
+<img src="https://streak-stats.demolab.com?user=Poojamallavarapu&theme=tokyonight&hide_border=true" width="49%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Poojamallavarapu&layout=compact&theme=tokyonight&hide_border=true" width="49%"/>
-<img src="https://github-profile-trophy.vercel.app/?username=Poojamallavarapu&theme=tokyonight&no-frame=true&column=4&margin-w=10" width="49%"/>
+<img src="https://github-readme-stats-git-masteranuraghazra.vercel.app/api/top-langs/?username=Poojamallavarapu&layout=compact&theme=tokyonight&hide_border=true" width="49%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Poojamallavarapu&theme=tokyonight&no-frame=true&column=4&margin-w=10&row=1" width="49%"/>
 
 </div>
 
