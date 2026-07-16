@@ -20,12 +20,12 @@
 
 ## 💼 Professional Snapshot
 
-Computer Science undergraduate (Cyber Security specialization) with hands-on experience building AI-powered applications, retrieval-augmented generation (RAG) pipelines, backend systems, and data analytics dashboards. FOSSEE / IIT Bombay research intern. Comfortable across the stack — from vector databases and local LLMs to REST APIs and network security tooling. Always experimenting, always shipping.
+Computer Science undergraduate with hands-on experience building AI-powered applications, retrieval-augmented generation (RAG) pipelines, backend systems, and data analytics dashboards. FOSSEE / IIT Bombay research intern. Comfortable across the stack — from vector databases and local LLMs to REST APIs and network security tooling. Always experimenting, always shipping.
 
 - 🧠 Currently deep in **RAG architectures, agentic routing, and LLM evaluation**
 - 🛡️ Strong foundation in **network security & threat detection**
 - 📊 Enjoy turning messy data into **clear, decision-ready dashboards**
-- 🌱 Learning in public — 26 repositories and counting
+  
 
 <br/>
 
